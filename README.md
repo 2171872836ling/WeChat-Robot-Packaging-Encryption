@@ -1,4 +1,4 @@
-[中文](./README.en.md) | **English**
+[English](./README.en.md) | **中文**
 <h1>微信机器人封装(加密)</h1>
 <ol>
 <li>该项目是2024.9.14停止维护，MIT协议随便用</li>
